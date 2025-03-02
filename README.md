@@ -1,4 +1,4 @@
-# LiveMedia
+# live Video to MP3 converter
 
 To start your Phoenix server:
 
